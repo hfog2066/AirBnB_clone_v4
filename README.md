@@ -154,8 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time.
 
 ## Authors
-Hector Orozcoo - [Github](https://github.com/hfog2066)
-Cristian David Bedoya Blanco - [Github](https://github.com/cristian-bedoya)
+<p>Hector Orozco - [Github](https://github.com/hfog2066)</p>
+<p>Cristian David Bedoya Blanco - [Github](https://github.com/cristian-bedoya)</p>
 
 
 ## License
