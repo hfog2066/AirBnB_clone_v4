@@ -125,8 +125,8 @@ def places_search():
     of the request
     """
 
-    if request.get_json() is None:
-        abort(400, description="Not a JSON")
+    """     if request.get_json() is None:
+        abort(400, description="Not a JSON") """
 
     data = request.get_json()
 
